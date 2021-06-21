@@ -1,2 +1,1 @@
-# 請看我的專頁
-[GitHub]( https://dennis04534.github.io/)
+[請看我的專頁]( https://dennis04534.github.io/)
