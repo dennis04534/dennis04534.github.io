@@ -1,2 +1,2 @@
 # 請看我的專頁
-[GitHub]([GitHub](http://github.com))
+[GitHub](dennis04534.github.io)
